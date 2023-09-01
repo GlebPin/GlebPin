@@ -1,0 +1,2 @@
+- 👋 Hi, I’m Gleb Pinskuy aka @GlebPin. 👀 I’m interested in coding.
+- 🌱 I’m currently learning AL.
